@@ -47,7 +47,7 @@ jobs:
       - name: Upload Fonts
         uses: actions/upload-artifact@v2
         with:
-          name: ImperialScript_Font
+          name: GrapeNuts-Font
           path: fonts/
       - name: Make Fontbakery Report
         uses: f-actions/font-bakery@v1
