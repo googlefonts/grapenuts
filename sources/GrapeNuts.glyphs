@@ -1,5 +1,8 @@
 {
 .appVersion = "3112";
+DisplayStrings = (
+"/circumflexcomb_acutecomb"
+);
 classes = (
 {
 automatic = 1;
@@ -49507,7 +49510,7 @@ width = 0;
 {
 color = 3;
 glyphname = circumflexcomb_acutecomb;
-lastChange = "2022-02-02 13:28:29 +0000";
+lastChange = "2022-02-08 21:32:56 +0000";
 layers = (
 {
 anchors = (
@@ -49532,8 +49535,9 @@ components = (
 name = circumflexcomb;
 },
 {
+alignment = -1;
 name = acutecomb;
-transform = "{1, 0, 0, 1, 30, 135}";
+transform = "{1, 0, 0, 1, 60, 105}";
 }
 );
 layerId = "34A4CA4C-C6E5-4C7E-9ECD-8F87FE1EC3A4";
@@ -49544,7 +49548,7 @@ width = 0;
 {
 color = 3;
 glyphname = circumflexcomb_gravecomb;
-lastChange = "2022-02-02 13:28:29 +0000";
+lastChange = "2022-02-08 21:32:53 +0000";
 layers = (
 {
 anchors = (
@@ -49569,8 +49573,9 @@ components = (
 name = circumflexcomb;
 },
 {
+alignment = -1;
 name = gravecomb;
-transform = "{1, 0, 0, 1, 30, 135}";
+transform = "{1, 0, 0, 1, 100, 105}";
 }
 );
 layerId = "34A4CA4C-C6E5-4C7E-9ECD-8F87FE1EC3A4";
@@ -49581,7 +49586,7 @@ width = 0;
 {
 color = 3;
 glyphname = circumflexcomb_hookabovecomb;
-lastChange = "2022-02-02 13:28:29 +0000";
+lastChange = "2022-02-08 19:58:00 +0000";
 layers = (
 {
 anchors = (
@@ -49606,8 +49611,9 @@ components = (
 name = circumflexcomb;
 },
 {
+alignment = -1;
 name = hookabovecomb;
-transform = "{1, 0, 0, 1, 30, 135}";
+transform = "{1, 0, 0, 1, 80, 85}";
 }
 );
 layerId = "34A4CA4C-C6E5-4C7E-9ECD-8F87FE1EC3A4";
