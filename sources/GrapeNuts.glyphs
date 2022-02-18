@@ -48354,6 +48354,16 @@ note = dagger;
 unicode = 2020;
 },
 {
+glyphname = daggerdbl;
+layers = (
+{
+layerId = "34A4CA4C-C6E5-4C7E-9ECD-8F87FE1EC3A4";
+width = 600;
+}
+);
+unicode = 2021;
+},
+{
 color = 1;
 glyphname = numero;
 lastChange = "2022-02-18 01:09:16 +0000";
